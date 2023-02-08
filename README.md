@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m from Argentina, and currently working on NetBialet and OpenNoa Companies<br>👯 I’m looking to collaborate on web dev projects<br>🌱 I’m currently learning Angular and React<br>
+🔭 I’m from Argentina :argentina:, and currently working on NetBialet and OpenNoa Companies<br>👯 I’m looking to collaborate on web dev projects<br>🌱 I’m currently learning Angular and React<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanicaste23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanicaste23) 
